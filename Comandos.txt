@@ -35,11 +35,15 @@ Geral: Normalmente armazenado no diretório do usuário do Sistema Operacional. O 
 
 Por repositório: Deve ser armazenado no diretório do repositório e deve conter a lista dos arquivos/diretórios que devem ser ignorados apenas para o repositório específico.
 
+
 Repositório Local
+
 Criar novo repositório
 git init
+
 Verificar estado dos arquivos/diretórios
 git status
+
 Adicionar arquivo/diretório (staged area)
 Adicionar um arquivo em específico
 git add meu_arquivo.txt
